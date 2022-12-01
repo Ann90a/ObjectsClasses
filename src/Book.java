@@ -1,7 +1,7 @@
 class Book {
 
-    String name;
-    int year;
+    private String name;
+    private int year;
 
     Author author;
 
